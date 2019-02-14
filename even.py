@@ -1,5 +1,5 @@
-d=int(input())
-if d%2==0:
-	print("even")
+jas=int(input())
+if jas%2==0:
+	print("Even")
 else:
-	print("odd")
+	print("Odd")
