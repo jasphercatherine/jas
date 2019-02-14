@@ -5,4 +5,4 @@ i=0
 while i<k:
 	summ=summ+x[i]
 	i=i+1
-	print(summ)
+print(summ)
