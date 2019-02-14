@@ -1,7 +1,9 @@
 y=input()
-print(y)
-x=y.lower()
-if x=="a" or x=="e" or x=="e" or x=="i" or x=="o" or x=="u":
-	print("vowel")
+if y.isalpha():
+	x=y.lower()
+	if x=="a" or x=="e" or x=="e" or x=="i" or x=="o" or x=="u":
+		print("vowel")
+	else:
+		print("consonant")
 else:
-	print("consonant")
+	print("invalid")
