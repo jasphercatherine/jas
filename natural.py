@@ -1,7 +1,7 @@
-n=int(input())
-w=1
+j=int(input())
+q=1
 summ=0
-while w<=n:
-	summ=summ+w
-	w+=1
+while q<=j:
+	summ=summ+q
+	q+=1
 print(summ)
