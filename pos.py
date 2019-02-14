@@ -1,7 +1,7 @@
 jas=int(input())
 if jas>0:
-	print("positive")
+	print("Positive")
 elif jas<0:
-	print("negative")
+	print("Negative")
 else:
-	print("zero")
+	print("Zero")
