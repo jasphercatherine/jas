@@ -1,7 +1,5 @@
 s=input()
 if s.isalpha():
-	print("alphabet")
-elif s.isnumeric():
-	print("number")
+	print("Alphabet")
 else:
-	print("special char")
+	print("No")
