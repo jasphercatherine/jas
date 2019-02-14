@@ -4,6 +4,6 @@ if q.isalpha():
 	if x=="a" or x=="e" or x=="e" or x=="i" or x=="o" or x=="u":
 		print("vowel")
 	else:
-		print("consonant")
+		print("Consonant")
 else:
 	print("invalid")
